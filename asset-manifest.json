@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Kalpas_Projects/static/css/main.f6c2f2b5.chunk.css",
+    "main.js": "/Kalpas_Projects/static/js/main.03aec099.chunk.js",
+    "main.js.map": "/Kalpas_Projects/static/js/main.03aec099.chunk.js.map",
+    "runtime-main.js": "/Kalpas_Projects/static/js/runtime-main.a6f39afa.js",
+    "runtime-main.js.map": "/Kalpas_Projects/static/js/runtime-main.a6f39afa.js.map",
+    "static/js/2.cdf849af.chunk.js": "/Kalpas_Projects/static/js/2.cdf849af.chunk.js",
+    "static/js/2.cdf849af.chunk.js.map": "/Kalpas_Projects/static/js/2.cdf849af.chunk.js.map",
+    "index.html": "/Kalpas_Projects/index.html",
+    "static/css/main.f6c2f2b5.chunk.css.map": "/Kalpas_Projects/static/css/main.f6c2f2b5.chunk.css.map",
+    "static/js/2.cdf849af.chunk.js.LICENSE.txt": "/Kalpas_Projects/static/js/2.cdf849af.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6f39afa.js",
+    "static/js/2.cdf849af.chunk.js",
+    "static/css/main.f6c2f2b5.chunk.css",
+    "static/js/main.03aec099.chunk.js"
+  ]
+}
