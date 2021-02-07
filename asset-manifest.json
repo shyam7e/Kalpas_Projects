@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Kalpas_Projects/static/css/main.f6c2f2b5.chunk.css",
-    "main.js": "/Kalpas_Projects/static/js/main.1137ea13.chunk.js",
-    "main.js.map": "/Kalpas_Projects/static/js/main.1137ea13.chunk.js.map",
+    "main.css": "/Kalpas_Projects/static/css/main.e010c7b7.chunk.css",
+    "main.js": "/Kalpas_Projects/static/js/main.ae0bfec3.chunk.js",
+    "main.js.map": "/Kalpas_Projects/static/js/main.ae0bfec3.chunk.js.map",
     "runtime-main.js": "/Kalpas_Projects/static/js/runtime-main.a6f39afa.js",
     "runtime-main.js.map": "/Kalpas_Projects/static/js/runtime-main.a6f39afa.js.map",
-    "static/js/2.cdf849af.chunk.js": "/Kalpas_Projects/static/js/2.cdf849af.chunk.js",
-    "static/js/2.cdf849af.chunk.js.map": "/Kalpas_Projects/static/js/2.cdf849af.chunk.js.map",
+    "static/js/2.4f2933c1.chunk.js": "/Kalpas_Projects/static/js/2.4f2933c1.chunk.js",
+    "static/js/2.4f2933c1.chunk.js.map": "/Kalpas_Projects/static/js/2.4f2933c1.chunk.js.map",
     "index.html": "/Kalpas_Projects/index.html",
-    "static/css/main.f6c2f2b5.chunk.css.map": "/Kalpas_Projects/static/css/main.f6c2f2b5.chunk.css.map",
-    "static/js/2.cdf849af.chunk.js.LICENSE.txt": "/Kalpas_Projects/static/js/2.cdf849af.chunk.js.LICENSE.txt"
+    "static/css/main.e010c7b7.chunk.css.map": "/Kalpas_Projects/static/css/main.e010c7b7.chunk.css.map",
+    "static/js/2.4f2933c1.chunk.js.LICENSE.txt": "/Kalpas_Projects/static/js/2.4f2933c1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a6f39afa.js",
-    "static/js/2.cdf849af.chunk.js",
-    "static/css/main.f6c2f2b5.chunk.css",
-    "static/js/main.1137ea13.chunk.js"
+    "static/js/2.4f2933c1.chunk.js",
+    "static/css/main.e010c7b7.chunk.css",
+    "static/js/main.ae0bfec3.chunk.js"
   ]
 }
