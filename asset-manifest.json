@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Kalpas_Projects/static/css/main.e010c7b7.chunk.css",
-    "main.js": "/Kalpas_Projects/static/js/main.ae0bfec3.chunk.js",
-    "main.js.map": "/Kalpas_Projects/static/js/main.ae0bfec3.chunk.js.map",
+    "main.js": "/Kalpas_Projects/static/js/main.4835cea0.chunk.js",
+    "main.js.map": "/Kalpas_Projects/static/js/main.4835cea0.chunk.js.map",
     "runtime-main.js": "/Kalpas_Projects/static/js/runtime-main.a6f39afa.js",
     "runtime-main.js.map": "/Kalpas_Projects/static/js/runtime-main.a6f39afa.js.map",
     "static/js/2.4f2933c1.chunk.js": "/Kalpas_Projects/static/js/2.4f2933c1.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.a6f39afa.js",
     "static/js/2.4f2933c1.chunk.js",
     "static/css/main.e010c7b7.chunk.css",
-    "static/js/main.ae0bfec3.chunk.js"
+    "static/js/main.4835cea0.chunk.js"
   ]
 }
