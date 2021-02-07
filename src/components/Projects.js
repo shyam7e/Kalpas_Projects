@@ -1,7 +1,7 @@
 import React from 'react'
 import './task.css'
 import Roles from './Roles'
-import Draggable from 'react-draggable'
+
 import ReactApexChart from 'react-apexcharts'
 import './proj.css'
 function Projects({text,roles}) {
@@ -47,7 +47,7 @@ function Projects({text,roles}) {
       };
       
     return (
-        <Draggable>
+        
             <div className="d-flex justify-content-start align-items-center flex-row 
         curve2 card text-white text-center projj rounded pr-2 pl-2 m-2 mr-5 ml-0"> 
 
@@ -77,7 +77,7 @@ function Projects({text,roles}) {
         
         
         </div>
-        </Draggable>
+        
         
         
     )
