@@ -10,6 +10,7 @@ function Projects({text,roles}) {
     const serie=['70']
 
     var option = {
+
         chart: {
           height: 80,
           type: "radialBar"
@@ -66,7 +67,9 @@ function Projects({text,roles}) {
             <div className="d-flex justify-content-start"><p className="px-1 m-0"><small>{text}</small></p></div> 
             <div className="d-flex p-0 my-1 ">
                  {
-                    roles.map(data=>(<Roles role={data.role} colors={data.colors}/>))
+                    roles.map(data=>(<Roles role={data.role} 
+                      colors={data.color}
+                      bgcolor={data.bgcolor}/>))
                  }
             </div>
             

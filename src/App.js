@@ -37,13 +37,15 @@ const projData= [
     text:"Lorem ipsum dolor sit amet consectetur.",
     roles:[{
       role:'frontend',
-      colors:'orange'
+      color:'orange',
+      bgcolor:'#2F261D'
 
     }
   ,
   {
     role:'Backend',
-    colors:'violet'
+    color:'violet',
+    bgcolor:'#2F261D'
 
   },
   
@@ -53,7 +55,8 @@ const projData= [
     text:"Lorem ipsum dolor sit amet consectetur.",
     roles:[{
       role:'frontend',
-      colors:'orange'
+      color:'orange',
+      bgcolor:'#2F261D'
 
     }]
   },
@@ -61,32 +64,59 @@ const projData= [
     text:"Lorem ipsum dolor sit amet consectetur.",
     roles:[{
       role:'Backend',
-      colors:'violet'
+      color:'violet',
+      bgcolor:'#2F261D'
 
     }]
   },{
     text:"Lorem ipsum dolor sit amet consectetur.",
     roles:[{
       role:'frontend',
-      colors:'orange'
+      color:'orange',
+      bgcolor:'#2F261D'
 
     }]
   }
 ]
 const taskData=[
   {
-    text:"Lorem ipsum dolor sit amet consectetur."
+    text:"Lorem ipsum dolor sit amet consectetur.",
+    roles:{
+      role:'Frontend',
+      color:'orange',
+      bgcolor:'#F8E2FF'
+    }
   },
   {
-    text:"Lorem ipsum dolor sit amet consectetur."
+    text:"Lorem ipsum dolor sit amet consectetur.",
+    roles:{
+      role:'Frontend',
+      color:'orange',
+      bgcolor:'#F8E2FF'
+    }
   },
   {
-    text:"Lorem ipsum dolor sit amet consectetur."
+    text:"Lorem ipsum dolor sit amet consectetur.",
+    roles:{
+      role:'Backend',
+      color:'violet',
+      bgcolor:'#F8E2FF'
+    }
   },
   {
-    text:"Lorem ipsum dolor sit amet consectetur."
+    text:"Lorem ipsum dolor sit amet consectetur.",
+    roles:{
+      role:'Frontend',
+      color:'orange',
+      bgcolor:'#F8E2FF'
+    }
   },{
-    text:"Lorem ipsum dolor sit amet consectetur."
+    text:"Lorem ipsum dolor sit amet consectetur.",
+    roles:{
+      role:'Backend',
+      color:'violet',
+      bgcolor:'#F8E2FF'
+    }
   }
   
 ]
@@ -126,7 +156,8 @@ const PortfolioCardData2 =[
                     <div>
                       <p className="text-white px-2 m-0 py-0">Projects</p>
                     {
-                      projData.map((proj)=>(<Projects text={proj.text} roles={proj.roles}/>))
+                      projData.map((proj)=>(<Projects text={proj.text} 
+                        roles={proj.roles}/>))
                     }
 
                 </div>
@@ -134,7 +165,8 @@ const PortfolioCardData2 =[
                 <div >
                   <p className="text-white px-2 m-0 py-0">Todays Task</p>
                         {
-                          taskData.map((data)=>(<Task text={data.text}/>))
+                          taskData.map((data)=>(<Task text={data.text}
+                             roles={data.roles}/>))
                         }   
                         </div>
               </div>
