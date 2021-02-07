@@ -1,0 +1,18 @@
+.hoverChange:hover
+{
+    background-color:#546AE4!important;
+    color: white!important;
+}
+.hover:hover i
+{
+    background-color:#546AE4!important;
+    color: white!important;
+}
+p
+{
+    font-size: 14px!important;
+}
+.icon
+{
+    font-size: 16px;
+}

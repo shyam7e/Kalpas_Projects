@@ -1,0 +1,30 @@
+.curve
+{
+    border-radius: 25px!important;
+    outline: none!important;
+}
+.curve2
+{
+    border-radius: 30px!important;
+    outline: none!important;
+}
+.curve3
+{
+    border-radius: 20px!important;
+    outline: none!important;
+}
+.hoverChange:hover
+{
+    background-color:#546AE4!important;
+    color: white!important;
+}
+.hover:hover i
+{
+    background-color:#546AE4!important;
+    color: white!important;
+}
+.taskbar
+{
+    width:360px;
+    height: 40px;
+}
